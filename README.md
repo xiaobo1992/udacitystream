@@ -2,10 +2,10 @@
 
 **Take a screenshot of your kafka-consumer-console output. You will need to include this screenshot as part of your project submission.**
 ![consumer resule](consumerResult.png)
-** a screenshot of your progress reporter after executing a Spark job. **
+**Take a screenshot of your progress reporter after executing a Spark job.**
 ![spark count](sparkcount.png)
 ![spark progress](sparkprogress.png)
-**Take a screenshot of the Spark Streaming UI as the streaming continues. **
+**Take a screenshot of the Spark Streaming UI as the streaming continues.**
 ![spark ui](sparkui.png)
 
 Question:
